@@ -1,0 +1,22 @@
+{
+  "name": "@oduori/hello-npm",
+  "version": "1.0.0",
+  "description": "Getting started with npm packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/coduori/hello_npm.git"
+  },
+  "keywords": [
+    "hello"
+  ],
+  "author": "oduori",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coduori/hello_npm/issues"
+  },
+  "homepage": "https://github.com/coduori/hello_npm#readme"
+}
